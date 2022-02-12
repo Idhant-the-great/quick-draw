@@ -1,0 +1,17 @@
+body{
+    background-color: turquoise;
+}
+#score{
+    font-size: 20;
+    float:left;
+    margin-left:30; 
+}
+#timer{
+    font-size: 20;
+    float:right;
+    margin-right: 30;
+}
+#sketch{
+    color: yellow;
+    font-size: 30;
+}
